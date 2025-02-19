@@ -297,43 +297,6 @@ The document in question serves as a comprehensive resource guide for both PHP a
 
 ---
 
-##### TomatoPHP - Filament Plugins
-
-* [Filament Accounts](https://github.com/tomatophp/filament-accounts)
-* [Filament Alerts](https://github.com/tomatophp/filament-alerts)
-* [Filament Api](https://github.com/tomatophp/filament-api)
-* [Filament Artisan](https://github.com/tomatophp/filament-artisan)
-* [Filament Browser](https://github.com/tomatophp/filament-browser)
-* [Filament CMS](https://github.com/tomatophp/filament-cms)
-* [Filament Developer Gate](https://github.com/tomatophp/filament-developer-gate)
-* [Filament Developer Tools](https://github.com/tomatophp/filament-developer-tools)
-* [Filament Ecommerce](https://github.com/tomatophp/filament-ecommerce)
-* [Filament Eddy](https://github.com/tomatophp/filament-eddy)
-* [Filament Forms](https://github.com/tomatophp/filament-forms)
-* [Filament Helpers](https://github.com/tomatophp/filament-helpers)
-* [Filament Icons](https://github.com/tomatophp/filament-icons)
-* [Filament Invoices](https://github.com/tomatophp/filament-invoices)
-* [Filament Locations](https://github.com/tomatophp/filament-locations)
-* [Filament Menus](https://github.com/tomatophp/filament-menus)
-* [Filament Plugins](https://github.com/tomatophp/filament-plugins)
-* [Filament PMS](https://github.com/tomatophp/filament-pms)
-* [Filament POS](https://github.com/tomatophp/filament-pos)
-* [Filament Splade](https://github.com/tomatophp/filament-splade)
-* [Filament Settings Hub](https://github.com/tomatophp/filament-settings-hub)
-* [Filament Themes](https://github.com/tomatophp/filament-themes)
-* [Filament Translations](https://github.com/tomatophp/filament-translations)
-* [Filament Types](https://github.com/tomatophp/filament-types)
-* [Filament Users](https://github.com/tomatophp/filament-users)
-* [Filament Wallet](https://github.com/tomatophp/filament-wallet)
-* [Filament Auditing](https://github.com/TappNetwork/filament-auditing)
-* [Filament Navigation](https://github.com/ryangjchandler/filament-navigation)
-* [Filament Browser](https://github.com/3x1io/filament-browser)
-* [Filament Copyactions](https://github.com/webbingbrasil/filament-copyactions)
-* [Filament Signature Pad](https://github.com/savannabits/filament-signature-pad)
-* [Filament Tree](https://github.com/solutionforest/filament-tree)
-
----
-
 #### LARAVEL NOVA
 
 * [Laravel Nova](https://nova.laravel.com)
